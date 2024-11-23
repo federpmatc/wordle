@@ -1,6 +1,5 @@
+#Screencast Overview - https://youtu.be/BqPvJ1zR_Fo
 #https://www.nytimes.com/games/wordle/index.html 
-#https://github.com/sjain2025/PyWordle
-#https://youtu.be/GPekrrKcymA?si=umUnYqXoBQYfABZb
 
 #https://pypi.org/project/termcolor/
 
